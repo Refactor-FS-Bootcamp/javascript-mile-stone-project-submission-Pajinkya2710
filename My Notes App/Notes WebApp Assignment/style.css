@@ -1,0 +1,16 @@
+h1,h2{
+    text-align:center;
+    font-family: cursive;
+    color:rgb(20, 14, 14)
+}
+span{
+   color:rgb(255, 193, 255);
+   padding-left:17pc;
+   font-size:2rem;
+   font-family: system-ui;
+}
+body{
+    background-image:url(https://img.freepik.com/premium-photo/pile-books-table-library_130388-600.jpg?w=2000) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
